@@ -1,3 +1,5 @@
 ECHO is on.
 
 kiedy to się stało
+
+git halo
